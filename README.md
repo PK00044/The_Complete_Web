@@ -41,7 +41,7 @@ This project demonstrates the development of a full-featured web application int
   ```
   pip install uvicorn
   ```
-![Unicorn Server Setup](![image](https://github.com/user-attachments/assets/44a93190-6b89-4832-947e-c1162df6518f))
+![Unicorn Server Setup](![image](![ngrok tun](https://github.com/user-attachments/assets/64107c0c-3cc5-491e-a06c-7a28471b9fee)))
 
 ### 6.2.7 Install and Use Ngrok
 - Download and install Ngrok from the official site.
@@ -50,7 +50,7 @@ This project demonstrates the development of a full-featured web application int
   ngrok http 8000
   ```
 • Your local server is now accessible via https://excited-snipe-blatantly.ngrokfree.app.
-![Ngrok Server Setup](![image]("C:\Users\prath\OneDrive\Pictures\Screenshots\367763961-c1c98572-3ca2-4af3-87a4-f66604473132.png")
+![Ngrok Server Setup](![image](![Screenshot_16-9-2024_185216_](https://github.com/user-attachments/assets/4f03d1e3-7677-44a5-ba8c-886c48277283))
 
 ## Running the Server and Tunneling
 
@@ -60,8 +60,7 @@ This project demonstrates the development of a full-featured web application int
    uvicorn main:app --reload
    ```
    - The API documentation is accessible at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
-![Unicorn Server and Ngrok tunneling](![image](![ngrok tun](https://github.com/user-attachments/assets/b573ad24-f577-4ab4-8b45-a5977faeb883)
-)))
+![Unicorn Server and Ngrok tunneling](![image](![ngrok tun](https://github.com/user-attachments/assets/b573ad24-f577-4ab4-8b45-a5977faeb883))))
 
 2. **Ngrok Setup**:
    - Run Ngrok to make the server publicly accessible:

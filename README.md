@@ -48,8 +48,6 @@ This project demonstrates the development of a full-featured web application int
   ngrok http 8000
   ```
 • Your local server is now accessible via https://excited-snipe-blatantly.ngrokfree.app.
-![Ngrok Server Setup](![image](![Screenshot_16-9-2024_185216_](https://github.com/user-attachments/assets/4f03d1e3-7677-44a5-ba8c-886c48277283))
-![NGROK](![image](https://github.com/user-attachments/assets/ab059c9f-6e5f-46f8-8826-ec57c148ad32))
 
 
 ## Running the Server and Tunneling
@@ -104,3 +102,4 @@ This project demonstrates the development of a full-featured web application int
 
 ## Conclusion
 This project serves as a complete web application architecture, integrating servers, APIs, databases, tunneling, and QR code tracking. It provides practical insights into developing a scalable and secure web application.
+https://drive.google.com/drive/folders/1r9-vWI4cPkmyT4iDeA5jnXo6b6h2IVKd

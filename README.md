@@ -50,7 +50,7 @@ This project demonstrates the development of a full-featured web application int
   ngrok http 8000
   ```
 • Your local server is now accessible via https://excited-snipe-blatantly.ngrokfree.app.
-![Unicorn Server Setup](![image](https://github.com/user-attachments/assets/c1c98572-3ca2-4af3-87a4-f66604473132))
+![Ngrok Server Setup](![image]("C:\Users\prath\OneDrive\Pictures\Screenshots\367763961-c1c98572-3ca2-4af3-87a4-f66604473132.png")
 
 ## Running the Server and Tunneling
 
@@ -60,7 +60,8 @@ This project demonstrates the development of a full-featured web application int
    uvicorn main:app --reload
    ```
    - The API documentation is accessible at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
-![Unicorn Server Setup](![image](https://github.com/user-attachments/assets/928d4f6e-3d12-4084-a751-0669c52a5349)))
+![Unicorn Server and Ngrok tunneling](![image](![ngrok tun](https://github.com/user-attachments/assets/b573ad24-f577-4ab4-8b45-a5977faeb883)
+)))
 
 2. **Ngrok Setup**:
    - Run Ngrok to make the server publicly accessible:
@@ -72,13 +73,13 @@ This project demonstrates the development of a full-featured web application int
 ## QR Codes for User Access
 - QR codes allow users to access the API quickly by scanning with their smartphones.
 - Example: Generate a QR code for the API documentation URL using tools like `qr.io`.
-![Unicorn Server Setup](![image](https://github.com/user-attachments/assets/c1c98572-3ca2-4af3-87a4-f66604473132))
+![Unicorn Server Setup](![image](![QRSEProject (1)](https://github.com/user-attachments/assets/ef55bf62-7ba0-4b4f-af27-fa3946321217)
+))
 
 ## Tracking User Stats
 - Track user interactions with the service using tools like `qr.io`.
 - Monitor user engagement, location, and other metrics for insights into usage patterns.
-![Unicorn Server Setup](![image](https://github.com/user-attachments/assets/dc078522-fa3f-4b8a-9b8c-f7a6aeb2827b)
-))
+![Unicorn Server Setup](![image](![Full (1)](https://github.com/user-attachments/assets/237207af-2f60-4add-99a0-00bd3a3bd827)))
 
 
 ## Testing

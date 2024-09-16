@@ -41,8 +41,6 @@ This project demonstrates the development of a full-featured web application int
   ```
   pip install uvicorn
   ```
-![Unicorn Server Setup](![image](![ngrok tun](https://github.com/user-attachments/assets/64107c0c-3cc5-491e-a06c-7a28471b9fee)))
-
 ### 6.2.7 Install and Use Ngrok
 - Download and install Ngrok from the official site.
 - Use the following command to start a tunnel:
@@ -51,6 +49,8 @@ This project demonstrates the development of a full-featured web application int
   ```
 • Your local server is now accessible via https://excited-snipe-blatantly.ngrokfree.app.
 ![Ngrok Server Setup](![image](![Screenshot_16-9-2024_185216_](https://github.com/user-attachments/assets/4f03d1e3-7677-44a5-ba8c-886c48277283))
+![NGROK](![image](https://github.com/user-attachments/assets/ab059c9f-6e5f-46f8-8826-ec57c148ad32))
+
 
 ## Running the Server and Tunneling
 
